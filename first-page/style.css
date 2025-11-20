@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+#name-title {
+    font-size: 13em;
+    font-family: Helvetica;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: plum;
+}
+
+#image {
+    position: absolute;
+    left: 900px;
+    top: 28px;
+}
+
+#text-cont-left {
+    position: absolute;
+    left: 25px;
+    top: 400px;
+    font-size: 3em;
+    font-family: Helvetica;
+    color: plum;
+    margin-right: 60%;
+}
+
+#text-cont-mid {
+    position: absolute;
+    left: 500px;
+    top: 400px;
+    font-size: 3em;
+    font-family: Helvetica;
+    color: plum;
+    margin-right: 60%;
+
+}
