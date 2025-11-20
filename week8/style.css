@@ -1,0 +1,41 @@
+
+html, body {
+    height: 100%; 
+    margin: 0;
+    background-color: lightpink;
+}
+
+
+#emptyP {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+    font-size: 3em;
+    
+}
+
+#onBtn {
+    background-color: white;
+    color: black;
+    padding: 10px, 20px;
+    border-radius: 5px;
+}
+
+#offBtn {
+    background-color: white;
+    color: black;
+    padding: 30px, 40px;
+    border-radius: 5px;
+}
+
+#cat {
+    height: 50%;
+    width: 50%;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+
