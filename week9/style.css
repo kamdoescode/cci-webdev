@@ -1,0 +1,15 @@
+#btn {
+    background-color: white;
+    color: black;
+    padding: 10px, 20px;
+    border-radius: 5px;
+}
+
+.myDiv {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    background-color: aqua;
+}
