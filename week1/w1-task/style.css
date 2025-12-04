@@ -1,0 +1,28 @@
+body {
+    background-color: #050139 ;
+}
+
+
+#image {
+    text-align: center;
+    margin-top: 5%;
+
+}
+
+#header {
+    color: #ef8fda;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
+
+#bodyText {
+    color: #ef8fda;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 5%;
+    line-height: ;
+}

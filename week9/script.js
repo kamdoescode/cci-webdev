@@ -12,7 +12,8 @@
 let tl = gsap.timeline();
 
 tl.to(".myBox", {x: 200, duration: 1 })
-.to(".myBox", {rotation: 360, duration: 2})
+.to("myBox", {scale: 2, duration: 1})
+.to(".myBox", {rotation: 720, duration: 2})
 
 // gsap.to(".myBox", {
 //     x: 200,
