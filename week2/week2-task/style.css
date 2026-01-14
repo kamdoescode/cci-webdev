@@ -1,0 +1,86 @@
+body {
+    background-image: url('assets/road-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* background-color: antiquewhite; fallback if image doesn't load */
+
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.church-container {
+    position: relative;
+}
+
+.church-container img{
+    position: absolute;
+    top: 350px;
+    left: -40px;
+    width: 600px;
+    height: 600px;
+}
+
+.ual-container {
+    position: relative;
+}
+
+.ual-container img{
+    position: absolute;
+    top: 0px;
+    left: 350px;
+    width: 700px;
+    height: 700px;
+}
+
+.gallery-container {
+    position: relative;
+}
+
+.gallery-container img{
+    position: absolute;
+    top: 85px;
+    left: 900px;
+    width: 500px;
+    height: 500px;
+}
+
+.pelican-container {
+    position: relative;
+}
+
+.pelican-container img{
+    position: absolute;
+    top: 380px;
+    left: 1200px;
+    width: 500px;
+    height: 500px;
+}
+
+.toad-container {
+    position: relative;
+}
+
+.toad-container img{
+    position: absolute;
+    top: 450px;
+    left: 750px;
+    width: 400px;
+    height: 400px;
+}
+
+.mondo-container {
+    position: relative;
+}
+
+.mondo-container img{
+    position: absolute;
+    top: 515px;
+    left: 640px;
+    width: 300px;
+    height: 300px;
+}
+
