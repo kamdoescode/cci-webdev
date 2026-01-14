@@ -1,0 +1,46 @@
+body {
+    background-color: #f5f2eb;
+}
+
+.title {
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium';
+    color: black;
+    text-align: center;
+}
+
+
+.photo-container{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.photo-container img{
+    left: 40%;
+    width: 716px;
+    height: 476px;
+}
+
+.sub-text{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium';
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.suggestion{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium';
+    color: black;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.back{
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium';
+    color: black;
+    text-align: center;
+    margin-top: 5px;
+}
