@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    min-height: 100vh;
+    background: #d6cec3;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0;
+    overflow: hidden;
+    font-family: system-ui, sans-serif;
+}
+
+
+.canvas {
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 0;
+}
+
+
+.minute-line {
+    width: 6px;
+    height: 100%;
+    /* to have the lines fade in */
+    opacity: 0;
+    animation: fadeIn 2s ease forwards;
+
+}
+
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
+   
